@@ -12,7 +12,7 @@ export default function Header() {
               <Award className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold text-slate-900">
-              Certify<span className="text-blue-600">App</span>
+              Cert<span className="text-blue-600">io</span>
             </span>
           </Link>
 
